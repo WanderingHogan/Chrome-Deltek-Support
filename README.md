@@ -18,11 +18,18 @@ Installation
 
 You can clone this repository and load the extension yourself following these instructions:
 
-http://code.google.com/chrome/extensions/getstarted.html#load
+https://developer.chrome.com/extensions/getstarted.html#unpacked
 
 Or you can download the pre-built extension by going to the following link and downloading the Chrome-Deltek-Support.crx extension.
 
-https://github.com/jrawlings/Chrome-Deltek-Support/downloads
+https://github.com/courtarro/Chrome-Deltek-Support/releases
+
+Improvements
+------------
+
+This is an improved version of the original code by Joe Rawlings. It has the following changes:
+
+- Favorites are correctly detected and supported 
 
 License
 -------
