@@ -2,7 +2,7 @@
   "manifest_version" : 2,
   "name"             : "Chrome-Deltek-Support",
   "description"      : "Hack for Deltek to support WebKit",
-  "version"          : "0.0.2",
+  "version"          : "1.0.0",
   "homepage_url"     : "https://github.com/courtarro/Chrome-Deltek-Support",
   "content_scripts"  : [
     {
