@@ -1,9 +1,13 @@
 {
   "manifest_version" : 2,
   "name"             : "Chrome-Deltek-Support",
-  "description"      : "Hack for Deltek to support WebKit",
-  "version"          : "1.0.0",
+  "description"      : "Corrects Deltek support in the Chrome browser",
+  "version"          : "1.0.1",
   "homepage_url"     : "https://github.com/courtarro/Chrome-Deltek-Support",
+  "icons"            : { "16": "icon16.png",
+                         "32": "icon32.png",
+                         "48": "icon48.png",
+                         "128": "icon128.png" },
   "content_scripts"  : [
     {
       "matches"      : ["http://*/DeltekTC/*", "https://*/DeltekTC/*"],
