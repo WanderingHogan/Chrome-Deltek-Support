@@ -1,7 +1,7 @@
-Chrome Deltek Support
-=====================
+Support for Deltek™ Timekeeping
+===============================
 
-Simple Chrome Extension hack to 'fix' Deltek issue with WebKit
+Simple Chrome Extension hack to 'fix' Deltek™ issue with WebKit
 
 Inspired by http://code.google.com/p/chromium/issues/detail?id=2628#c19
 
@@ -29,7 +29,7 @@ Improvements
 
 This is an improved version of the original code by Joe Rawlings. It has the following changes:
 
-- Favorites are correctly detected and supported 
+- Favorites are correctly detected and supported
 
 License
 -------

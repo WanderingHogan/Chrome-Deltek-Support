@@ -1,8 +1,8 @@
 {
   "manifest_version" : 2,
-  "name"             : "Chrome-Deltek-Support",
-  "description"      : "Corrects Deltek support in the Chrome browser",
-  "version"          : "1.0.1",
+  "name"             : "Support for Deltek™ Timekeeping",
+  "description"      : "Corrects Deltek™ support in Google Chrome™",
+  "version"          : "1.0.2",
   "homepage_url"     : "https://github.com/courtarro/Chrome-Deltek-Support",
   "icons"            : { "16": "icon16.png",
                          "32": "icon32.png",
